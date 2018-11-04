@@ -1,5 +1,5 @@
 ---
-title: "Introducing Gatsby Material Starter"
+title: "Introducing OpenSTEMKids website"
 cover: "starter-logo-1024.png"
 category: "gatsby"
 tags:
