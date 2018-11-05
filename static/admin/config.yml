@@ -1,7 +1,14 @@
 backend:
-  name: github # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
+  name: git-gateway # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
   branch: master # Branch to update
-  repo: vagr9k/gatsby-material-starter # Repo for pushing new commits. Make sure to replace with your repo!
+  repo: Crashedmind/openstem.com-gatsby-material-UI # Repo for pushing new commits. Make sure to replace with your repo!
+
+#adds an interface for drafting, reviewing, and approving posts
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# This line should *not* be indented
+media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
 
 media_folder: static/assets
 public_folder: assets
