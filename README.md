@@ -3,11 +3,17 @@
 
 # Under the Hood
 ## In the Past
-I had previously played with / used various PHP CMSs (WordPress, Drupal, Joomla), easy site creators like Weebly, Wix, and Confluence as a website CMS, and 2 decades ago, some perl scripts to generate content. None of these felt right:
+I had previously played with / used 
+- various PHP CMSs: WordPress, Drupal, Joomla/Mambo
+- easy site creators: Weebly, Wix
+- Confluence as a website CMS. I like Confluence a LOT in an intranet context - but struggled to like it as a website CMS.
+- Perl scripts to generate content - 2 decades ago
+
+None of these felt right:
 - The constant PHP security updates.
 - Separation of concerns - content from rendering.
 - Wanting content to be in a Source Code Repository. 
-- Need for [Speed](https://developers.google.com/speed/pagespeed/insights/?url=). I like Confluence a LOT in an intranet context - but struggled to like it as a website CMS.
+- Need for [Speed](https://developers.google.com/speed/pagespeed/insights/?url=).
 - ProgressiveWebAPP support for a more mobile/native support.
 
 ## Now
