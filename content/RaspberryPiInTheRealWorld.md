@@ -28,6 +28,6 @@ Raspberry Pi detects switch is pressed.
 If pressed, turns on LED.
 
 ## Questions
-How would we turn the LED off if switch is pressed?
-How would we turn the LED in on for 10 seconds if switch is pressed?
+- How would we turn the LED off if switch is pressed?
+- How would we turn the LED in on for 10 seconds if switch is pressed?
 
