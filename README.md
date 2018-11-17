@@ -8,6 +8,9 @@ See [OpenSTEMKids.com](http://OpenSTEMKids.com) for a prettier version of it.
 
 ## Now
 The site uses a [JAMstack](https://jamstack.org/). A JAMstack is used “a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.” 
+- Javascript: React client side
+- APIs: GraphQL
+- Markup: Gatsby
 
 Specifically: 
 - [Gatsby-Material-Starter](https://github.com/Vagr9K/gatsby-material-starter) is the starting point:
