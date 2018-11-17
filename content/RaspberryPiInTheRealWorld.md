@@ -7,8 +7,8 @@ category: RaspberryPi Electronics
 tags:
   - raspberrypi
   - coding
-  - Electronics
-  ---
+  - picar
+---
 
 
 # Use a Raspberry Pi to turn LED on and off every second
