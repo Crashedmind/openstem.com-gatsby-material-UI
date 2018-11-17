@@ -7,15 +7,13 @@ See [OpenSTEMKids.com](http://OpenSTEMKids.com) for a prettier version of it.
 # Under the Hood
 
 ## Now
-The site uses a [JAMstack](https://jamstack.org/). A JAMstack is used “a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.” 
-- Javascript: React client side
-- APIs: GraphQL
-- Markup: Gatsby
-
-Specifically: 
-- [Gatsby-Material-Starter](https://github.com/Vagr9K/gatsby-material-starter) is the starting point:
+The site uses a [JAMstack](https://jamstack.org/). A JAMstack is used “a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.”:
+- JAM
+  - Javascript: React client side. 
+    - React-Material-UI: for a standard look and feel
+  - APIs: GraphQL
   - Markup: [Gatsby](https://github.com/gatsbyjs/gatsby/) for ServerSideRendering - with content stored in GitHub. Gatsby is a React-based Static Site Generator - that uses GraphQL to pull data - from GitHub in this case.
-  - React-Material-UI: for a standard look and feel
+- [Gatsby-Material-Starter](https://github.com/Vagr9K/gatsby-material-starter) is the starting point
 - Hosting is on Netlify - free personal unlimited!
 - NetlifyCMS was added for WYSIWYG editing - and staged release.
 
