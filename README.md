@@ -20,10 +20,3 @@ Specifically:
 - Hosting is on Netlify - free personal unlimited!
 - NetlifyCMS was added for WYSIWIG editing.
 
-
-```css
-@import "~react-md/src/scss/react-md";
-$md-primary-color: $md-grey-400;
-$md-secondary-color: $md-red-800;
-$md-tertiary-color: $md-grey-300;
-```
