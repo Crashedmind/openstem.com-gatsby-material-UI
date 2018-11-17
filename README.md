@@ -1,7 +1,7 @@
 
 # OpenSTEMKids.com
-The content for OpenSTEMKids.com lives here. 
-See OpenSTEMKids.com a prettier version of it.
+The content for [http://OpenSTEMKids.com](OpenSTEMKids.com) lives here. 
+See [http://OpenSTEMKids.com](OpenSTEMKids.com) for a prettier version of it.
 
 
 # Under the Hood
