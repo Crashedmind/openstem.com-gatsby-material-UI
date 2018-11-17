@@ -24,5 +24,5 @@ Specifically:
 Markup: [Gatsby](https://github.com/gatsbyjs/gatsby/) for ServerSideRendering - with content stored in GitHub. Gatsby is a React-based Static Site Generator - that uses GraphQL to pull data - from GitHub in this case.
 React-Material-UI: for a standard look and feel
 - Hosting is on Netlify - free personal unlimited!
-- NetlifyCMS was added for WYSIWIG editing.
+- NetlifyCMS was added for WYSIWYG editing.
 
