@@ -21,8 +21,8 @@ The site uses a [JAMstack](https://jamstack.org/). A JAMstack is used “a moder
 
 Specifically: 
 - [Gatsby-Material-Starter](https://github.com/Vagr9K/gatsby-material-starter) is the starting point:
--- Markup: [Gatsby](https://github.com/gatsbyjs/gatsby/) for ServerSideRendering - with content stored in GitHub. Gatsby is a React-based Static Site Generator - that uses GraphQL to pull data - from GitHub in this case.
--- React-Material-UI: for a standard look and feel
+Markup: [Gatsby](https://github.com/gatsbyjs/gatsby/) for ServerSideRendering - with content stored in GitHub. Gatsby is a React-based Static Site Generator - that uses GraphQL to pull data - from GitHub in this case.
+React-Material-UI: for a standard look and feel
 - Hosting is on Netlify - free personal unlimited!
 - NetlifyCMS was added for WYSIWIG editing.
 
