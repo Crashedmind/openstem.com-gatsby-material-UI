@@ -1,4 +1,7 @@
 
+# OpenSTEMKids.com
+The content for OpenSTEMKids.com lives here. 
+See OpenSTEMKids.com a prettier version of it.
 
 
 # Under the Hood
@@ -11,7 +14,7 @@ Specifically:
   - Markup: [Gatsby](https://github.com/gatsbyjs/gatsby/) for ServerSideRendering - with content stored in GitHub. Gatsby is a React-based Static Site Generator - that uses GraphQL to pull data - from GitHub in this case.
   - React-Material-UI: for a standard look and feel
 - Hosting is on Netlify - free personal unlimited!
-- NetlifyCMS was added for WYSIWYG editing.
+- NetlifyCMS was added for WYSIWYG editing - and staged release.
 
 ## In the Past
 I had previously played with / used 
