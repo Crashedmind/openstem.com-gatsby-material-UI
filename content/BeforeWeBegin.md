@@ -12,7 +12,7 @@ tags:
   - workspace
 ---
 # Setup a worktop
-![WorkTop](/assets/worktop.png)
+![WorkTop](/assets/WorkTop.jpg)
 
 * We want to 
   * write notes on the workspace
