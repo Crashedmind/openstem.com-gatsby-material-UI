@@ -33,16 +33,5 @@ tags:
 Find and setup a room in which you can work.
 
 
-# Setup a Github account
-![Github account](/assets/github.png)
-
-We want to
-* save the project files that we create in one place including
-  * source code
-  * pictures
-  * notes
-
-So we setup a free Github account.
-
 
 
