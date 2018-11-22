@@ -1,7 +1,7 @@
 ---
 title: Before we begin
 date: 2018-11-22T00:00:00.000Z
-cover: /assets/worktop.png
+cover: /assets/WorkTop.jpg
 slug: Before we begin
 category: Setup
 tags:
