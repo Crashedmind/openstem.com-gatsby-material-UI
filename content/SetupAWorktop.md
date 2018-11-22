@@ -10,6 +10,7 @@ tags:
   - camera
   - gopro
   - workspace
+  - setup
 ---
 # Setup a worktop
 ![WorkTop](/assets/WorkTop.jpg)
