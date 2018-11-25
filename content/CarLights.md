@@ -36,8 +36,8 @@ Lights indicate Movement
 
 TODO: add link to scratch program
 
-## Outcome
 
+## Youtube video
 [![Simulating the indicator, reverse, brake lights on a car using Scratch](https://img.youtube.com/vi/cVSb3EtPrd8/0.jpg)](https://www.youtube.com/watch?v=cVSb3EtPrd8)
 
 ![Car Light simulation using Scratch](/assets/carlightsscratch.png)
@@ -67,7 +67,7 @@ TODO: add link to scratch program
 
 ![Electronics sysmbols](/assets/carlightssymbols.jpg)
 
-## Outcome
+## Youtube video
 
 [![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)
 
