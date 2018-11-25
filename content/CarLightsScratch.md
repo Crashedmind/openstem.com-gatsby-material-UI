@@ -12,8 +12,9 @@ tags:
   - electronics
 ---
 
+# Part 1 Simulating Using Scratch
 
-# Car Lights 
+## Car Lights 
 
 Lights indicate Movement
 
@@ -28,7 +29,7 @@ Lights indicate Movement
 
    
 
-# Part 1: Simulating Using Scratch
+
 ## Materials Required
 
 1. Computer running Scratch
