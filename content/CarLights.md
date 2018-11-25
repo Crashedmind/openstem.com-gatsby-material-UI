@@ -26,25 +26,7 @@ Lights indicate Movement
 | Right         | 2 way switch  | right yellow lights flash front and rear |
 | -             | Blue button    | Horn beeps |
 
-
-   
-
-# Part 1: Simulating Using Scratch
-## Materials Required
-
-1. Computer running Scratch
-
-TODO: add link to scratch program
-
-
-## Youtube video
-
-![youtube](/assets/youtube.png)
-
-[![Simulating the indicator, reverse, brake lights on a car using Scratch](https://img.youtube.com/vi/cVSb3EtPrd8/0.jpg)](https://www.youtube.com/watch?v=cVSb3EtPrd8)
-
-
-![Car Light simulation using Scratch](/assets/carlightsscratch.png)
+  
 
 
 # Part 2: Using Electronics
