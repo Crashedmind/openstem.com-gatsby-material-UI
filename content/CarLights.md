@@ -40,7 +40,7 @@ TODO: add link to scratch program
 
 ## Outcome
 
-[![Simulating the indicator, reverse, brake lights on a car using Scratch](http://img.youtube.com/vi/cVSb3EtPrd8/0.jpg)](http://www.youtube.com/watch?v=cVSb3EtPrd8)
+[![Simulating the indicator, reverse, brake lights on a car using Scratch](https://img.youtube.com/vi/cVSb3EtPrd8/0.jpg)](https://www.youtube.com/watch?v=cVSb3EtPrd8)
 
 
 
