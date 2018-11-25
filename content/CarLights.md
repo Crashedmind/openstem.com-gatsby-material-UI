@@ -11,9 +11,10 @@ tags:
   - leds
   - electronics
 ---
+# Part 2: Using Electronics
 
 
-# Car Lights and Horn
+## Car Lights and Horn
 Horn sounds when button pressed.
 
 Lights indicate Movement
@@ -29,9 +30,6 @@ Lights indicate Movement
   
 
 
-# Part 2: Using Electronics
-Pre-lesson drawing while waiting for lesson to be setup.
-![pre lesson drawing](/assets/Carlights_DoraSantawarmup.jpg)
 
 ## Materials Required
 
@@ -44,6 +42,8 @@ Pre-lesson drawing while waiting for lesson to be setup.
 ## Build Notes
 1. Build step-by-step and test
 
+Pre-lesson drawing while waiting for lesson to be setup.
+![pre lesson drawing](/assets/Carlights_DoraSantawarmup.jpg)
 
 ![Circuit](/assets/carlightsbreadboard.jpg)
 
