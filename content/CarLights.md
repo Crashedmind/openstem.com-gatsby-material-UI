@@ -38,13 +38,17 @@ TODO: add link to scratch program
 
 
 ## Youtube video
+
+![youtube](/assets/youtube.png)
+
 [![Simulating the indicator, reverse, brake lights on a car using Scratch](https://img.youtube.com/vi/cVSb3EtPrd8/0.jpg)](https://www.youtube.com/watch?v=cVSb3EtPrd8)
+
 
 ![Car Light simulation using Scratch](/assets/carlightsscratch.png)
 
 
 # Part 2: Using Electronics
-
+Pre-lesson drawing while waiting for lesson to be setup.
 ![pre lesson drawing](/assets/Carlights_DoraSantawarmup.jpg)
 
 ## Materials Required
@@ -68,6 +72,8 @@ TODO: add link to scratch program
 ![Electronics sysmbols](/assets/carlightssymbols.jpg)
 
 ## Youtube video
+
+![youtube](/assets/youtube.png)
 
 [![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)
 
