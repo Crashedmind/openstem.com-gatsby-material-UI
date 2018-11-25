@@ -12,7 +12,7 @@ tags:
   - electronics
 ---
 # Part 2: Using Electronics
-
+See Part 1 [Simulating using Scratch](/CarLightsScratch)
 
 ## Car Lights and Horn
 Horn sounds when button pressed.
