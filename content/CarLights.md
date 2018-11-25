@@ -19,14 +19,14 @@ Horn sounds when button pressed.
 Lights indicate Movement
 
 
- Movement      | Button        | Lights  
+ Movement      | Trigger        | 
  ------------- |:-------------:| -----:
- Forward       | Green         | green 
- Backward      | Yellow        | yellow 
- Stop          | Red           | red 
- Left          | other      | left yellow lights flash 
- Right         | other      | right yellow lights flash 
-
+ Forward       | 2 way switch 1 | green 
+ Backward      | 2 way switch 1 | yellow 
+ Stop          | Red            | red 
+ Left          | 2 way switch 2 | left yellow lights flash front and rear
+ Right         | 2 way switch 2 | right yellow lights flash front and rear
+ -             | Green button    | Horn beeps
 
 
    
