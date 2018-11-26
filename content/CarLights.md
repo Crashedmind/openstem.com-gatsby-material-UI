@@ -45,24 +45,22 @@ In this session, we'll use electronic lights and a buzzer, and switches:
 4. 2 x Push button switch
 4. 1 x Left Right Toggle switch
    
-## Build Notes
-1. Build step-by-step and test
-
-Pre-lesson drawing while waiting for lesson to be setup.
+## Build 
+### Pre-lesson drawing while waiting for lesson to be setup 
 ![pre lesson drawing](/assets/Carlights_DoraSantawarmup.jpg)
 
+### Draw Circuit Diagram
+![Electronics sysmbols](/assets/carlightssymbols.jpg)
+![Drawings](/assets/carlightsdrawings.jpg)
+![Whiteboard worktop](/assets/carlightswhiteboard.jpg)
+![Theory ](/assets/youtube.png)
+[![Car lights and horn electronics theory](https://img.youtube.com/vi/od-3b_V7kIA/0.jpg)](https://www.youtube.com/watch?v=od-3b_V7kIA)    
+
+### Build Circuit
 ![Circuit](/assets/carlightsbreadboard.jpg)
 
-![Whiteboard worktop](/assets/carlightswhiteboard.jpg)
-
-![Drawings](/assets/carlightsdrawings.jpg)
-
-![Electronics sysmbols](/assets/carlightssymbols.jpg)
 
 
-
-## ![Theory ](/assets/youtube.png)
-[![Car lights and horn electronics theory](https://img.youtube.com/vi/od-3b_V7kIA/0.jpg)](https://www.youtube.com/watch?v=od-3b_V7kIA)    
 
 
 
