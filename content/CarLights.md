@@ -14,7 +14,7 @@ tags:
 
 
 # Part 2: Using Electronics
-See Part 1 [Simulating using Scratch](/CarLightsScratch) where we modelled car lights in Scratch and coded them to respond to different key presses.
+See Part 1 [Simulating using Scratch](/car-lights-scratch) where we modelled car lights in Scratch and coded them to respond to different key presses.
 
 
 ## Car Lights and Horn
