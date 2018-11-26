@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: "OpenSTEMKids", // Site title.
   siteTitleShort: "OpenSTEMKids", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "OpenSTEMKids", // Alternative site title for SEO.
+  siteTitleAlt: "OpenSTEMKids Science Technology Engineering Math for kids education", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://github.com/Crashedmind", // Domain of your website without pathPrefix.
   pathPrefix: "/openstem.com-gatsby-material-UI", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
@@ -15,9 +15,9 @@ module.exports = {
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
   userName: "OpenSTEMKids", // Username to display in the author segment.
-  userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "North Pole, Earth", // User location to display in the author segment.
-  userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
+  userTwitter: "Crashedmind2", // Optionally renders "Follow Me" in the UserInfo segment.
+  userLocation: "Dublin, Ireland", // User location to display in the author segment.
+  userAvatar: "https://github.com/Crashedmind/openstem.com-gatsby-material-UI/blob/master/static/assets/superman.png", // User avatar to display in the author segment.
   userDescription:
     "An engineer and his kids who love to play with Science Technology Engineering Math", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
@@ -36,6 +36,11 @@ module.exports = {
       label: "Email",
       url: "mailto:crashedmind@gmail.com",
       iconClassName: "fa fa-envelope"
+    },
+    {
+      label: "Twitter",
+      url: "https://twitter.com/Crashedmind2",
+      iconClassName: "fa fa-twitter"
     }
   ],
   copyright: "Copyright © 2018. OpenSTEMKids" // Copyright string for the footer of the website and RSS feed.
