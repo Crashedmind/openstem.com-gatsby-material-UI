@@ -11,8 +11,11 @@ tags:
   - leds
   - electronics
 ---
+
+
 # Part 2: Using Electronics
 See Part 1 [Simulating using Scratch](/CarLightsScratch) where we modelled car lights in Scratch and coded them to respond to different key presses.
+
 
 ## Car Lights and Horn
 In this session, we'll use electronic lights and a buzzer, and switches:
@@ -27,11 +30,13 @@ In this session, we'll use electronic lights and a buzzer, and switches:
 | Right         | 2 way switch  | right yellow lights flash front and rear |
 | -             | Blue button    | Horn beeps |
 
+
+
 ## Youtube video
 
-| ![youtube](/assets/youtube.png)      | [![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)        |
 
-
+| ![Demo ](/assets/youtube.png)   |    [![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)        |
+|:------------- |:-------------| 
 
 ## Materials Required
 
@@ -60,7 +65,7 @@ Pre-lesson drawing while waiting for lesson to be setup.
 
 
 
-
+## Part 3 Using Raspberry Pi
 In Part 3 we'll use a Raspberry Pi to read the switches and write code to
 1. play a tune when the horn button is pressed
 2. flash the indicator lights for 3 seconds when the left-Right toggle switch is pressed.
