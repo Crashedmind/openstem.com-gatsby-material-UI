@@ -7,6 +7,7 @@ category: Materials
 tags:
   - lego
   - electronics
+  - brixo
 ---
 
 ![Brixo](/assets/brixo.png)

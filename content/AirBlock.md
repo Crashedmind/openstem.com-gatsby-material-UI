@@ -1,5 +1,5 @@
 ---
-title: Makeblock Airblock Transformable Drone Hovercraft Robot for Kids
+title: Makeblock Airblock 
 date: 2018-6-22T00:00:00.000Z
 cover: /assets/airblock.jpg
 slug: Makeblock Airblock Transformable Drone Hovercraft Robot for Kids

@@ -10,14 +10,14 @@ module.exports = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   siteGATrackingID: "UA-47311644-4", // Tracking code ID for google analytics.
-  disqusShortname: "OpenSTEMKids-Comments", // Disqus shortname.
+  disqusShortname: "openstemkids", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
   userName: "OpenSTEMKids", // Username to display in the author segment.
   userTwitter: "Crashedmind2", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Dublin, Ireland", // User location to display in the author segment.
-  userAvatar: "https://github.com/Crashedmind/openstem.com-gatsby-material-UI/blob/master/static/assets/superman.png", // User avatar to display in the author segment.
+  userAvatar: "https://github.com/Crashedmind/openstem.com-gatsby-material-UI/blob/master/static/assets/superman.png?raw=true", // User avatar to display in the author segment.
   userDescription:
     "An engineer and his kids who love to play with Science Technology Engineering Math", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.

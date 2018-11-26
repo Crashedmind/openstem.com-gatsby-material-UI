@@ -1,11 +1,11 @@
 ---
 title: "Introducing OpenSTEMKids website"
-cover: "starter-logo-1024.png"
+cover: "/assets/opensteamkids.png"
 category: "Lesson"
 tags:
         - openstemkids
 
-date: "2018-11-22"
+date: "2018-05-22"
 ---
 ![OpenSTEMKids](/assets/opensteamkids.png)
 

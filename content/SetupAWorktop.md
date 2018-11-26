@@ -1,6 +1,6 @@
 ---
 title: Setup a worktop
-date: 2018-11-22T00:00:00.000Z
+date: 2018-10-22T00:00:00.000Z
 cover: /assets/WorkTop.jpg
 slug: Setup a worktop
 category: Setup

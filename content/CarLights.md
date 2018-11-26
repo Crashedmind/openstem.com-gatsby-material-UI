@@ -1,40 +1,47 @@
 ---
-title: Car Lights
+title: Car Lights Electronics
 date: 2018-11-25T00:00:00.000Z
-cover: /assets/carlightsbreadboard.jpg
+cover: /assets/carlightsbreadboardheading.jpg 
 slug: Car Lights
 category: Lesson
 tags:
-  - raspberrypi
-  - robot
   - coding
   - leds
   - electronics
+  - scratch
 ---
 
-
-# Part 2: Using Electronics
-See Part 1 [Simulating using Scratch](/car-lights-scratch) where we modelled car lights in Scratch and coded them to respond to different key presses.
+# Car Lights And Horn With Electronics
 
 
-## Car Lights and Horn
-In this session, we'll use electronic lights and a buzzer, and switches:
--Horn sounds when button pressed.
--Lights indicate Movement
+## Demo 
+
+![youtube ](/assets/youtube.png)
+[![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)
 
 
-| Movement      | Trigger        |     |
-|:------------- |:-------------| :-----|
-| Stop          | Red            | red | 
-| Left          | 2 way switch  | left yellow lights flash front and rear |
-| Right         | 2 way switch  | right yellow lights flash front and rear |
-| -             | Blue button    | Horn beeps |
+In this session, we'll use electronic lights and a buzzer, and switches to act like a real car:
+- Horn sounds when button pressed
+- Lights indicate movement: left, right, stopping.
+
+In Part 1 [Simulating using Scratch](/car-lights-scratch) we modelled car lights in Scratch and coded them to respond to different key presses.
+This lesson builds on this, by implementing a real circuit with electronics.
 
 
 
-## ![Demo ](/assets/youtube.png)
 
-[![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)        
+
+
+| Movement      | Trigger        | Result   | What Happens]
+|:------------- |:-------------| :-----| :-----|
+| Stopping          | Red button            | Red | When we press the Red button, to indicate we're stoppping, the Red brake lights will light.|
+| Left          | 2 way switch  | Left yellow lights flash front and rear | When we Move the toggle switch to the Left, to indicate we're turning left, left yellow lights flash front and rear|
+| Right         | 2 way switch  | Right yellow lights flash front and rear |When we move the toggle switch to the Right,  to indicate we're turning right, right yellow lights flash front and rear|
+| -             | Blue button    | Horn beeps |When we press the blue button, to alert other drivers, the buzzer beeps|
+
+
+
+        
 
 
 ## Materials Required
@@ -49,18 +56,26 @@ In this session, we'll use electronic lights and a buzzer, and switches:
 ### Pre-lesson drawing while waiting for lesson to be setup 
 ![pre lesson drawing](/assets/Carlights_DoraSantawarmup.jpg)
 
+Dora doodles while we get setup :)
+
+### Circuit Diagram Symbols
+![Electronics symbols](/assets/carlightssymbols.jpg)
+The circuit diagram symbols for the components we use in our circuit.
+
 ### Draw Circuit Diagram
-![Electronics sysmbols](/assets/carlightssymbols.jpg)
 ![Drawings](/assets/carlightsdrawings.jpg)
-![Whiteboard worktop](/assets/carlightswhiteboard.jpg)
-![Theory ](/assets/youtube.png)
-[![Car lights and horn electronics theory](https://img.youtube.com/vi/od-3b_V7kIA/0.jpg)](https://www.youtube.com/watch?v=od-3b_V7kIA)    
+The circuit diagram showing:
+- a push button switch
+- a toggle switch
+
+
 
 ### Build Circuit
 ![Circuit](/assets/carlightsbreadboard.jpg)
 
-
-
+## Theory
+![Theory ](/assets/youtube.png)
+[![Car lights and horn electronics theory](https://img.youtube.com/vi/od-3b_V7kIA/0.jpg)](https://www.youtube.com/watch?v=od-3b_V7kIA)    
 
 
 

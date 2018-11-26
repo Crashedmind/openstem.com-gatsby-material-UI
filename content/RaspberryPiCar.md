@@ -1,9 +1,9 @@
 ---
 title: Raspberry Pi Car
-date: 2018-11-05T00:00:00.000Z
+date: 2018-11-12T00:00:00.000Z
 cover: /assets/picar.png
 slug: Raspberry Pi Car
-category: RaspberryPi Robot
+category: Lesson
 tags:
   - raspberrypi
   - robot
@@ -13,6 +13,19 @@ tags:
 
 
 # Building and Coding a robot car to avoid obstacles
+
+
+## Demo Ultrasonic Collision Avoidance
+Collision Avoidance with Ultrasonic Sensors Demo
+![youtube ](/assets/youtube.png)
+[![Unboxing](https://img.youtube.com/vi/DyE35mbmNoE/0.jpg)](https://www.youtube.com/watch?v=DyE35mbmNoE)
+
+
+## Demo Line Follower
+
+![youtube ](/assets/youtube.png)
+[![Demo Line Follower](https://img.youtube.com/vi/ejYkmUijpPk/0.jpg)](https://www.youtube.com/watch?v=ejYkmUijpPk)
+
 
 ## Materials Required
 
@@ -31,16 +44,14 @@ tags:
 
 ## Unboxing
 
-https://www.youtube.com/watch?v=9FfN-DF6WHQ
+![Unboxing ](/assets/youtube.png)
+[![Unboxing](https://img.youtube.com/vi/9FfN-DF6WHQ/0.jpg)](https://www.youtube.com/watch?v=9FfN-DF6WHQ)
+
 
 
 
 ## Assembly
+Official Assembly Video
+![Unboxing ](/assets/youtube.png)
+[![Unboxing](https://img.youtube.com/vi/Tg_g4YoAZdc/0.jpg)](https://www.youtube.com/watch?v=Tg_g4YoAZdc)
 
-See official Assembly Video : https://www.youtube.com/watch?v=Tg_g4YoAZdc
-
-
-
-## Field Trial
-
-Collision Avoidance with Ultrasonic Sensors: https://www.youtube.com/watch?v=DyE35mbmNoE

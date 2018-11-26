@@ -1,23 +1,35 @@
 ---
 title: Car Lights Scratch
-date: 2018-11-25T00:00:00.000Z
-cover: /assets/carlightsbreadboard.jpg
+date: 2018-11-18T00:00:00.000Z
+cover: /assets/carlightsscratch.png
 slug: Car Lights Scratch
 category: Lesson
 tags:
-  - raspberrypi
-  - robot
   - coding
   - leds
   - electronics
+  - simulation
 ---
 
 # Part 1 Simulating Using Scratch
 
+
+## Demo 
+
+![youtube ](/assets/youtube.png)
+[![Simulating the indicator, reverse, brake lights on a car using Scratch](https://img.youtube.com/vi/cVSb3EtPrd8/0.jpg)](https://www.youtube.com/watch?v=cVSb3EtPrd8)
+
+
+
+
 ## Car Lights 
+In this session, we'll use Scratch to simulate car lights and horn
+- Horn sounds when button pressed
+- Lights indicate movement: left, right, stopping.
+
+This allows us to developer our idea easily before we try it on real hardware (electronics)
 
 Lights indicate Movement
-
 
 | Movement      | Key         |  Light                        
 |:------------- |:------------| :-----                        
@@ -37,14 +49,6 @@ Lights indicate Movement
 TODO: add link to scratch program
 
 
-## Youtube video
-
-![youtube](/assets/youtube.png)
-
-[![Simulating the indicator, reverse, brake lights on a car using Scratch](https://img.youtube.com/vi/cVSb3EtPrd8/0.jpg)](https://www.youtube.com/watch?v=cVSb3EtPrd8)
-
-
-![Car Light simulation using Scratch](/assets/carlightsscratch.png)
 
 
 
