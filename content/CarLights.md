@@ -12,12 +12,12 @@ tags:
   - electronics
 ---
 # Part 2: Using Electronics
-See Part 1 [Simulating using Scratch](/CarLightsScratch)
+See Part 1 [Simulating using Scratch](/CarLightsScratch) where we modelled car lights in Scratch and coded them to respond to different key presses.
 
 ## Car Lights and Horn
-Horn sounds when button pressed.
-
-Lights indicate Movement
+In this session, we'll use electronic lights and a buzzer, and switches:
+-Horn sounds when button pressed.
+-Lights indicate Movement
 
 
 | Movement      | Trigger        |     |
