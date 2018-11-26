@@ -61,6 +61,9 @@ Pre-lesson drawing while waiting for lesson to be setup.
 
 
 
+## ![Theory ](/assets/youtube.png)
+[![Car lights and horn electronics theory](https://img.youtube.com/vi/od-3b_V7kIA/0.jpg)](https://www.youtube.com/watch?v=od-3b_V7kIA)    
+
 
 
 
