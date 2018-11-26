@@ -32,11 +32,10 @@ In this session, we'll use electronic lights and a buzzer, and switches:
 
 
 
-## Youtube video
+## ![Demo ](/assets/youtube.png)
 
+[![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)        
 
-| ![Demo ](/assets/youtube.png)   |    [![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)        |
-|:------------- |:-------------| 
 
 ## Materials Required
 
