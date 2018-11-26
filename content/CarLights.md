@@ -27,7 +27,11 @@ Lights indicate Movement
 | Right         | 2 way switch  | right yellow lights flash front and rear |
 | -             | Blue button    | Horn beeps |
 
-  
+## Youtube video
+
+![youtube](/assets/youtube.png)
+
+[![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)
 
 
 
@@ -53,11 +57,7 @@ Pre-lesson drawing while waiting for lesson to be setup.
 
 ![Electronics sysmbols](/assets/carlightssymbols.jpg)
 
-## Youtube video
 
-![youtube](/assets/youtube.png)
-
-[![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)
 
 
 
