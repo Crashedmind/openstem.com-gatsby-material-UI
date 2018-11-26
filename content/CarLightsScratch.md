@@ -1,8 +1,8 @@
 ---
-title: Car Lights
+title: Car Lights Scratch
 date: 2018-11-25T00:00:00.000Z
 cover: /assets/carlightsbreadboard.jpg
-slug: Car Lights
+slug: Car Lights Scratch
 category: Lesson
 tags:
   - raspberrypi
