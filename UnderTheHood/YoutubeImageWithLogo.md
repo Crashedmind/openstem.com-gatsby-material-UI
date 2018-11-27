@@ -6,6 +6,8 @@ Given a youtube ID e.g. gXLyQUFMQ9g
 2. add the youtube icon to center
 3. save as youtube_gXLyQUFMQ9g.jpg
 
+Alternative would be float an image over the original via CSS - but since we're using Markdown to generate content, we'll modify the image directly.
+
 ## Install Pillow
 Pillow is the Python Image Library
 ```
@@ -19,6 +21,7 @@ git clone https://github.com/theitrain/watermark
 
 ## Get an image for our youtube videos and store it in myimage dir
 ```
+mkdir myimages
 wget https://img.youtube.com/vi/Wm7_a1XDTac/0.jpg -P myimages/
 ```
 
