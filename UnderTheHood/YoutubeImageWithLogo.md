@@ -23,6 +23,8 @@ wget https://img.youtube.com/vi/Wm7_a1XDTac/0.jpg -P myimages/
 ```
 
 ## Get the logo we want to superimpose on our images
+
+### Take 1: any old youtube icon image
 ```
 wget https://github.com/Crashedmind/openstem.com-gatsby-material-UI/blob/master/static/assets/youtube.jpg?raw=true
 ```
@@ -38,8 +40,16 @@ Traceback (most recent call last):
 ValueError: bad transparency mask
 
 ```
-
 The logo needs to be transparent (the logo provided with watermark.py work AOK)
+
+###Take 2: Get a free transparent youtube icon 
+- http://pluspng.com/img-png/youtube-png-picture-png-image-2272.png
+- resize it from 2400 to 200
+
+'''
+#this works
+python watermark.py  './myimages' 'youtube-png-picture-png-image-2272.png'
+'''
 
 
 
