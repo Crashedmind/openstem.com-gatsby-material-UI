@@ -17,7 +17,7 @@ module.exports = {
   userName: "OpenSTEMKids", // Username to display in the author segment.
   userTwitter: "Crashedmind2", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Dublin, Ireland", // User location to display in the author segment.
-  userAvatar: "https://github.com/Crashedmind/openstem.com-gatsby-material-UI/blob/master/static/logos/logo-1024.png?raw=true", // User avatar to display in the author segment.
+  userAvatar: "/logos/logo-1024.png", // User avatar to display in the author segment.
   userDescription:
     "An engineer and his kids who love to play with Science Technology Engineering Math", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.

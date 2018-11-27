@@ -14,8 +14,8 @@ tags:
 
 ## Demo 
 
-![youtube ](/assets/youtube.png)
-[![Brixo Electronic Lego bricks](https://img.youtube.com/vi/Wm7_a1XDTac/0.jpg)](https://www.youtube.com/watch?v=Wm7_a1XDTac)
+
+[![Brixo Electronic Lego bricks](/assets/BrixoLegoCircuits_Wm7_a1XDTac.jpg)](https://www.youtube.com/watch?v=Wm7_a1XDTac)
 
 
 

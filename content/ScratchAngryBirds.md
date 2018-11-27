@@ -12,6 +12,5 @@ tags:
 
 ## Demo 
 
-![youtube ](/assets/youtube.png)
-[![Simulating the indicator, reverse, brake lights on a car using Scratch](https://img.youtube.com/vi/3vSvNTi3wCo/0.jpg)](https://www.youtube.com/watch?v=3vSvNTi3wCo)
+[![Simulating the indicator, reverse, brake lights on a car using Scratch](/assets/ScratchAngryBirds_3vSvNTi3wCo.jpg)](https://www.youtube.com/watch?v=3vSvNTi3wCo)
 

@@ -16,8 +16,7 @@ tags:
 
 ## Demo 
 
-![youtube ](/assets/youtube.png)
-[![Car lights and horn electronics](https://img.youtube.com/vi/gXLyQUFMQ9g/0.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)
+[![Car lights and horn electronics](/assets/CarLights_gXLyQUFMQ9g.jpg)](https://www.youtube.com/watch?v=gXLyQUFMQ9g)
 
 
 In this session, we'll use electronic lights and a buzzer, and switches to act like a real car:
@@ -74,8 +73,7 @@ The circuit diagram showing:
 ![Circuit](/assets/carlightsbreadboard.jpg)
 
 ## Theory
-![Theory ](/assets/youtube.png)
-[![Car lights and horn electronics theory](https://img.youtube.com/vi/od-3b_V7kIA/0.jpg)](https://www.youtube.com/watch?v=od-3b_V7kIA)    
+[![Car lights and horn electronics theory](/assets/CarLights1_od-3b_V7kIA.jpg)](https://www.youtube.com/watch?v=od-3b_V7kIA)    
 
 
 

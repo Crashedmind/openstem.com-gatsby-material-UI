@@ -14,8 +14,9 @@ tags:
 
 ## Demo Raspberry Pi With Electronics
 
-![youtube ](/assets/youtube.png)
-[![Unboxing](/assets/rpielectronicssw.jpeg)](https://www.youtube.com/watch?v=hjdwwKf-8KA&t)
+
+
+[![Rpi](/assets/RaspberryPiInTheRealWorld_hjdwwKf8KA.jpg)](https://www.youtube.com/watch?v=hjdwwKf-8KA&t)
 
 ## Materials Required
 

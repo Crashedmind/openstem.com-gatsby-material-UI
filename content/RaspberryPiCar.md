@@ -17,14 +17,12 @@ tags:
 
 ## Demo Ultrasonic Collision Avoidance
 Collision Avoidance with Ultrasonic Sensors Demo
-![youtube ](/assets/youtube.png)
-[![Unboxing](https://img.youtube.com/vi/DyE35mbmNoE/0.jpg)](https://www.youtube.com/watch?v=DyE35mbmNoE)
+[![Unboxing](/assets/RaspberryPiCar_DyE35mbmNoE.jpg)](https://www.youtube.com/watch?v=DyE35mbmNoE)
 
 
 ## Demo Line Follower
 
-![youtube ](/assets/youtube.png)
-[![Demo Line Follower](https://img.youtube.com/vi/ejYkmUijpPk/0.jpg)](https://www.youtube.com/watch?v=ejYkmUijpPk)
+[![Demo Line Follower](/assets/RaspberryPiCar1_ejYkmUijpPk.jpg)](https://www.youtube.com/watch?v=ejYkmUijpPk)
 
 
 ## Materials Required
@@ -43,15 +41,12 @@ Collision Avoidance with Ultrasonic Sensors Demo
 
 
 ## Unboxing
-
-![Unboxing ](/assets/youtube.png)
-[![Unboxing](https://img.youtube.com/vi/9FfN-DF6WHQ/0.jpg)](https://www.youtube.com/watch?v=9FfN-DF6WHQ)
+[![Unboxing](/assets/RaspberryPiCar2_9FfN-DF6WHQ.jpg)](https://www.youtube.com/watch?v=9FfN-DF6WHQ)
 
 
 
 
 ## Assembly
 Official Assembly Video
-![Unboxing ](/assets/youtube.png)
-[![Unboxing](https://img.youtube.com/vi/Tg_g4YoAZdc/0.jpg)](https://www.youtube.com/watch?v=Tg_g4YoAZdc)
+[![Unboxing](/assets/RaspberryPiCar3_Tg_g4YoAZdc.jpg)](https://www.youtube.com/watch?v=Tg_g4YoAZdc)
 
