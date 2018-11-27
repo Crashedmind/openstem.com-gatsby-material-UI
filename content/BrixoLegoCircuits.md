@@ -3,7 +3,7 @@ title: Lego Circuits
 date: 2018-10-22T00:00:00.000Z
 cover: /assets/brixo.png
 slug: Lego Circuits
-category: Leson
+category: Lesson
 tags:
   - lego
   - electronics
