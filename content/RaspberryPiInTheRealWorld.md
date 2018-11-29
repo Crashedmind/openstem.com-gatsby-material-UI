@@ -3,7 +3,7 @@ title: Raspberry Pi in the real world
 date: 2018-11-05T00:00:00.000Z
 cover: /assets/rpielectronicssw.jpeg
 slug: Raspberry Pi in the real world
-category: Lesson
+category: Activities
 tags:
   - raspberrypi
   - coding

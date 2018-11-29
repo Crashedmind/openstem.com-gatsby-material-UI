@@ -3,7 +3,7 @@ title: Car Lights Electronics
 date: 2018-11-25T00:00:00.000Z
 cover: /assets/carlightsbreadboardheading.jpg 
 slug: Car Lights
-category: Lesson
+category: Activities
 tags:
   - coding
   - leds
@@ -24,7 +24,7 @@ In this session, we'll use electronic lights and a buzzer, and switches to act l
 - Lights indicate movement: left, right, stopping.
 
 In Part 1 [Simulating using Scratch](/car-lights-scratch) we modelled car lights in Scratch and coded them to respond to different key presses.
-This lesson builds on this, by implementing a real circuit with electronics.
+This activity builds on this, by implementing a real circuit with electronics.
 
 
 
@@ -52,8 +52,8 @@ This lesson builds on this, by implementing a real circuit with electronics.
 4. 1 x Left Right Toggle switch
    
 ## Build 
-### Pre-lesson drawing while waiting for lesson to be setup 
-![pre lesson drawing](/assets/Carlights_DoraSantawarmup.jpg)
+### Pre-activities drawing while waiting for activities to be setup 
+![pre activities drawing](/assets/Carlights_DoraSantawarmup.jpg)
 
 Dora doodles while we get setup :)
 

@@ -15,6 +15,48 @@ function GetNavList(config) {
     }
   ];
 
+  NavList.push({
+    primaryText: "Activities",
+    leftIcon: <FontIcon>person</FontIcon>,
+    component: Link,
+    to: "categories/activities/"
+  });
+  
+  NavList.push({
+    primaryText: "Materials",
+    leftIcon: <FontIcon>person</FontIcon>,
+    component: Link,
+    to: "categories/materials/"
+  });
+  
+  NavList.push({
+    primaryText: "Setup",
+    leftIcon: <FontIcon>person</FontIcon>,
+    component: Link,
+    to: "categories/setup/"
+  });
+
+
+  NavList.push({
+    primaryText: "Books",
+    leftIcon: <FontIcon>person</FontIcon>,
+    component: Link,
+    to: "categories/books/"
+  });
+
+
+  
+  NavList.push({
+    primaryText: "Calendar",
+    leftIcon: <FontIcon>person</FontIcon>,
+    component: Link,
+    to: "calendar"
+  });
+
+
+
+  NavList.push({ divider: true });
+
   if (config.userLinks) {
     config.userLinks.forEach(link => {
       NavList.push({

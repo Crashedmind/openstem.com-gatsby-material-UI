@@ -19,7 +19,7 @@ module.exports = {
   userLocation: "Dublin, Ireland", // User location to display in the author segment.
   userAvatar: "/logos/logo-1024.png", // User avatar to display in the author segment.
   userDescription:
-    "An engineer and his kids who love to play with Science Technology Engineering Math", // User description to display in the author segment.
+    "An engineer and his kids who love to play with Science Technology Engineering Math ... and Art and Robots", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {

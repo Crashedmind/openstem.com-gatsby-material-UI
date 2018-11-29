@@ -1,7 +1,7 @@
 ---
 title: "Introducing OpenSTEMKids website"
 cover: "/assets/opensteamkids.png"
-category: "Lesson"
+category: "Setup"
 tags:
         - openstemkids
 
@@ -10,8 +10,8 @@ date: "2018-05-22"
 ![OpenSTEMKids](/assets/opensteamkids.png)
 
 
-## Welcome
-To facilitate and promote STEM for children:
+## Welcome:
+OpenSTEMKids facilitates and promote STEM for children:
 - Science
 - Technology
 - Engineering

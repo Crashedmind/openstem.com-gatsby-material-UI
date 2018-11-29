@@ -3,7 +3,7 @@ title: Car Lights Scratch
 date: 2018-11-18T00:00:00.000Z
 cover: /assets/carlightsscratch.png
 slug: Car Lights Scratch
-category: Lesson
+category: Activities
 tags:
   - coding
   - leds

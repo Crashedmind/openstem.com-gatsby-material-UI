@@ -3,7 +3,7 @@ title: Raspberry Pi Car
 date: 2018-11-12T00:00:00.000Z
 cover: /assets/picar.png
 slug: Raspberry Pi Car
-category: Lesson
+category: Activities
 tags:
   - raspberrypi
   - robot
