@@ -9,7 +9,7 @@ tags:
 ---
 
 
-![Raspberry Pi Projects for Kids - Second Edition](/assets/BookRaspberryPiProjectsforKids.jpg)
+[![Raspberry Pi Projects for Kids - Second Edition](/assets/BookRaspberryPiProjectsforKids.jpg)](https://www.amazon.co.uk/Raspberry-Pi-Projects-Kids-Second/dp/1785281526/)
 
 
 [Raspberry Pi Projects for Kids - Second Edition](https://www.amazon.co.uk/Raspberry-Pi-Projects-Kids-Second/dp/1785281526/)
