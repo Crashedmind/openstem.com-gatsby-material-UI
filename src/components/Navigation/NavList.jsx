@@ -17,21 +17,21 @@ function GetNavList(config) {
 
   NavList.push({
     primaryText: "Activities",
-    leftIcon: <FontIcon>person</FontIcon>,
+    leftIcon: <FontIcon>tag_faces</FontIcon>, 
     component: Link,
     to: "categories/activities/"
   });
   
   NavList.push({
     primaryText: "Materials",
-    leftIcon: <FontIcon>person</FontIcon>,
+    leftIcon: <FontIcon>toys</FontIcon>,
     component: Link,
     to: "categories/materials/"
   });
   
   NavList.push({
     primaryText: "Setup",
-    leftIcon: <FontIcon>person</FontIcon>,
+    leftIcon: <FontIcon>build</FontIcon>,
     component: Link,
     to: "categories/setup/"
   });
@@ -39,7 +39,7 @@ function GetNavList(config) {
 
   NavList.push({
     primaryText: "Books",
-    leftIcon: <FontIcon>person</FontIcon>,
+    leftIcon: <FontIcon>chrome_reader_mode</FontIcon>,
     component: Link,
     to: "categories/books/"
   });
@@ -48,7 +48,7 @@ function GetNavList(config) {
   
   NavList.push({
     primaryText: "Calendar",
-    leftIcon: <FontIcon>person</FontIcon>,
+    leftIcon: <FontIcon>event</FontIcon>,
     component: Link,
     to: "calendar"
   });
