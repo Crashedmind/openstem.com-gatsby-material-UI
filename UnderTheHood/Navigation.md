@@ -1,3 +1,6 @@
+content/ pages should have the appropriate category
+e.g. "activities" then browsing to /categories/activities/ will produce this subset
+
 ## Add to Navigation Bar
 Add these
 - /categories/activities/
@@ -42,10 +45,9 @@ NavList.push({
 
 ```
 
-TODO: Add books
-TODO: Add calendar
-
 
 ##update icons
 
 react-md/lib/FontIcons
+
+see icon preview and names on https://material.io/tools/icons/?style=baseline
