@@ -1,15 +1,15 @@
 ---
 title: Raspbperry Pi Sense Hat
 date: 2018-6-22T00:00:00.000Z
-cover: /assets/raspbperrypisensehat.png
-slug: Raspbperry Pi Sense Hat
+cover: /assets/raspberrypisensehat.png
+slug: Raspberry Pi Sense Hat
 category: Materials
 tags:
-  - raspbperrypi
+  - raspperrypi
   - sensehat
 ---
 
-![Raspberry Pi Sense HAT](/assets/raspbperrypisensehat.png)
+![Raspberry Pi Sense HAT](/assets/raspberrypisensehat.png)
 
 Raspberry Pi Sense HAT with Orientation, Pressure, Humidity and Temperature Sensors
 - Gyroscope - angular rate sensor: ±245/500/2000dps

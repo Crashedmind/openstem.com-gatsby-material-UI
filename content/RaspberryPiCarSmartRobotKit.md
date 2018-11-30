@@ -2,10 +2,10 @@
 title: Raspbperry Pi Car
 date: 2018-6-22T00:00:00.000Z
 cover: /assets/picar.png
-slug: Raspbperry Pi Car
+slug: Raspberry Pi Car
 category: Materials
 tags:
-  - raspbperrypi
+  - raspberrypi
   - robot
 ---
 
