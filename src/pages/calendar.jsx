@@ -1,23 +1,23 @@
 import React, { Component } from "react";
 import Helmet from "react-helmet";
 import Layout from "../layout";
-import About from "../components/About";
+import Calendar from "../components/Calendar";
 import config from "../../data/SiteConfig";
 
-class AboutPage extends Component {
+class CalendarPage extends Component {
   render() {
     return (
-      <Layout location={this.props.location} title="About">
-        <div className="about-container">
+      <Layout location={this.props.location} title="Calendar">
+        <div className="calendar-container">
           <Helmet>
-            <title>{`About | ${config.siteTitle}`}</title>
-            <link rel="canonical" href={`${config.siteUrl}/about/`} />
+            <title>{`Calendar | ${config.siteTitle}`}</title>
+            <link rel="canonical" href={`${config.siteUrl}/calendar/`} />
           </Helmet>
-          <About />
+          <Calendar />
         </div>
       </Layout>
     );
   }
 }
 
-export default AboutPage;
+export default CalendarPage;

@@ -22,11 +22,11 @@ module.exports = {
     "An engineer and his kids who love to play with Science Technology Engineering Math ... and Art and Robots", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
-    {
-      label: "GitHub",
-      url: "https://github.com/Crashedmind",
-      iconClassName: "fa fa-github"
-    },
+    //{
+    //  label: "GitHub",
+    //  url: "https://github.com/Crashedmind",
+    //  iconClassName: "fa fa-github"
+    // },
     {
       label: "Youtube",
       url: "https://www.youtube.com/channel/UClT-YU-Yl_3to7yXAHEeuqA",

@@ -23,6 +23,13 @@ function GetNavList(config) {
   });
   
   NavList.push({
+    primaryText: "Blog",
+    leftIcon: <FontIcon>edit</FontIcon>,
+    component: Link,
+    to: "categories/blog/"
+  });
+
+  NavList.push({
     primaryText: "Materials",
     leftIcon: <FontIcon>toys</FontIcon>,
     component: Link,
@@ -45,14 +52,6 @@ function GetNavList(config) {
   });
 
 
-  
-  NavList.push({
-    primaryText: "Calendar",
-    leftIcon: <FontIcon>event</FontIcon>,
-    component: Link,
-    to: "calendar"
-  });
-
 
 
   NavList.push({ divider: true });
@@ -69,6 +68,15 @@ function GetNavList(config) {
   }
 
   NavList.push({ divider: true });
+
+  
+  NavList.push({
+    primaryText: "Calendar",
+    leftIcon: <FontIcon>event</FontIcon>,
+    component: Link,
+    to: "calendar"
+  });
+
 
   NavList.push({
     primaryText: "About",

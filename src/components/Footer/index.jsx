@@ -8,6 +8,7 @@ import "./Footer.scss";
 class Footer extends Component {
   render() {
     const url = config.siteRss;
+    const urlCalendar = "/calendar";
     const { userLinks } = this.props;
     const { copyright, fixedFooter } = config;
     if (!copyright) {
@@ -29,12 +30,11 @@ class Footer extends Component {
             </Link>
           </div>
           <div className="based-on">
-            <h4>
-              Based on{" "}
-              <a href="https://github.com/Vagr9K/gatsby-material-starter">
-                Gatsby Material Starter
-              </a>.
-            </h4>
+            <Link to={urlCalendar}>
+                <Button flat secondary iconClassName="fa fa-calendar"> 
+                  Calendar
+                </Button>
+              </Link>
           </div>
         </div>
       </footer>
