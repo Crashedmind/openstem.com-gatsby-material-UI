@@ -74,15 +74,15 @@ function GetNavList(config) {
     primaryText: "Calendar",
     leftIcon: <FontIcon>event</FontIcon>,
     component: Link,
-    to: "calendar"
+    to: "/events-calendar"
   });
 
 
   NavList.push({
-    primaryText: "About",
-    leftIcon: <FontIcon>person</FontIcon>,
+    primaryText: "Intro",
+    leftIcon: <FontIcon>info</FontIcon>,
     component: Link,
-    to: "/about/"
+    to: "/introducing-open-stem-kids-website/"
   });
   return NavList;
 }

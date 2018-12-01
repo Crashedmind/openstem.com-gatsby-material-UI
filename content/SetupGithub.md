@@ -29,6 +29,7 @@ To join Github, you need an email address to verify your account
 2. Click "Sign up"
 3. Create personal account
 4. Follow steps on https://www.wikihow.com/Create-an-Account-on-GitHub
+5. See https://guides.github.com/activities/hello-world/ for a good overview tutorial
 
 # Create A Repository
 A Repository is a place to store our files. 

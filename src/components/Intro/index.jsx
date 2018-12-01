@@ -1,6 +1,6 @@
-// Do not delete. index.js is required to generate the url /Calendar
+// Do not delete. index.js is required to generate the url /intro
 // This is deliberately blank. The content/Calendar.md has the content
-//
+
 import React, { Component } from "react";
 import Card from "react-md/lib/Cards/Card";
 import CardText from "react-md/lib/Cards/CardText";
@@ -8,7 +8,7 @@ import UserLinks from "../UserLinks";
 import config from "../../../data/SiteConfig";
 import "./Calendar.scss";
 
-class Calendar extends Component {
+class Intro extends Component {
   render() {
     return (
       <div className="calendar-container md-grid mobile-fix">
@@ -22,8 +22,7 @@ class Calendar extends Component {
               className="calendar-img"
               alt={config.userName}
             />
-            [Calendar](https://calendar.google.com/calendar/embed?src=3t2rr6k7t202dbk6nnpoht49eo%40group.calendar.google.com&ctz=Europe%2FDublin)
-            
+                        
             <CardText>
               <p className="calendar-text md-body-1">  </p>
               
@@ -36,4 +35,4 @@ class Calendar extends Component {
   }
 }
 
-export default Calendar;
+export default Intro;
