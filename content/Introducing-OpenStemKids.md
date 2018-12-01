@@ -1,12 +1,16 @@
 ---
-title: "Introducing OpenSTEMKids website"
+title: Introducing OpenSTEMKids website
+date: 2018-6-22T00:00:00.000Z
 cover: "/assets/opensteamkids.png"
-category: "Setup"
+slug: Introducing OpenSTEMKids website
+category: Materials
 tags:
         - openstemkids
-
-date: "2018-05-22"
 ---
+
+
+
+
 ![OpenSTEMKids](/assets/opensteamkids.png)
 
 
