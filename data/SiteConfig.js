@@ -39,7 +39,7 @@ module.exports = {
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/Crashedmind2",
+      url: "https://twitter.com/STEMOpen",
       iconClassName: "fa fa-twitter"
     }
   ],
