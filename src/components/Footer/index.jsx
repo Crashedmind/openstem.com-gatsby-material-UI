@@ -8,6 +8,9 @@ import "./Footer.scss";
 class Footer extends Component {
   render() {
     const url = config.siteRss;
+    const urlCalendar = "/events-calendar";
+    const urlInfo = "/introducing-open-stem-kids-website";
+    
     const { userLinks } = this.props;
     const { copyright, fixedFooter } = config;
     if (!copyright) {
@@ -17,9 +20,14 @@ class Footer extends Component {
       <footer className={fixedFooter ? "footer footer-fixed" : "footer"}>
         {userLinks ? <UserLinks config={config} labeled /> : null}
         <div className="notice-container">
-          <div className="copyright">
-            <h4>{copyright}</h4>
+          <div className="Intro">
+            <Link to={urlInfo}>
+                <Button flat secondary iconClassName="fa fa-info"> 
+                  Intro
+                </Button>            
+            </Link>
           </div>
+
 
           <div className="rss">
             <Link to={url}>
@@ -29,12 +37,11 @@ class Footer extends Component {
             </Link>
           </div>
           <div className="based-on">
-            <h4>
-              Based on{" "}
-              <a href="https://github.com/Vagr9K/gatsby-material-starter">
-                Gatsby Material Starter
-              </a>.
-            </h4>
+            <Link to={urlCalendar}>
+                <Button flat secondary iconClassName="fa fa-calendar"> 
+                  Calendar
+                </Button>
+              </Link>
           </div>
         </div>
       </footer>
