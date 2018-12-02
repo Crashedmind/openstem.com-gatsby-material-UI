@@ -3,7 +3,7 @@ title: Introducing OpenSTEMKids website
 date: 2018-6-22T00:00:00.000Z
 cover: "/assets/opensteamkids.png"
 slug: Introducing OpenSTEMKids website
-category: Materials
+category: Setup
 tags:
         - openstemkids
 ---
