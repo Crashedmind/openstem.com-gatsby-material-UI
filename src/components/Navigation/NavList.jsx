@@ -67,23 +67,7 @@ function GetNavList(config) {
     });
   }
 
-  NavList.push({ divider: true });
-
-  
-  NavList.push({
-    primaryText: "Calendar",
-    leftIcon: <FontIcon>event</FontIcon>,
-    component: Link,
-    to: "/events-calendar"
-  });
-
-
-  NavList.push({
-    primaryText: "Intro",
-    leftIcon: <FontIcon>info</FontIcon>,
-    component: Link,
-    to: "/introducing-open-stem-kids-website/"
-  });
+ 
   return NavList;
 }
 export default GetNavList;

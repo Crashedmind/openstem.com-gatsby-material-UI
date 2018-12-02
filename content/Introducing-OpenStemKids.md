@@ -1,13 +1,12 @@
 ---
 title: Introducing OpenSTEMKids website
 date: 2018-6-22T00:00:00.000Z
-cover: "/assets/opensteamkids.png"
+cover: /assets/opensteamkids.png
 slug: Introducing OpenSTEMKids website
 category: Setup
 tags:
         - openstemkids
 ---
-
 
 
 
@@ -35,6 +34,3 @@ On this site you'll find
 - [Twitter](https://twitter.com/STEMOpen) where we post links and articles 
 
 
-
-
-:information_source: There is zero interest or attempt to make money from this site; the purpose is shared learning and fun.  Therefore, this site has zero affiliation with any of the products shown, or links listed, and zero of the links are affiliate links. 
