@@ -5,7 +5,7 @@ cover: /assets/raspberrypisensehat.png
 slug: STEM Presents
 category: Blog
 tags:
-  - 
+  - raspberrypi
 ---
 TODO: To be completed
 
