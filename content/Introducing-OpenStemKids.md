@@ -15,12 +15,12 @@ tags:
 
 
 ## Welcome
-OpenSTEMKids facilitates and promote STEM for children:
+OpenSTEMKids facilitates and promotes STEM for children:
 - Science
 - Technology
 - Engineering
 - Mathematics
-- (and we'll do some Art and Robotics too)
+- (and Art and Robotics too)
 
 
 
@@ -37,4 +37,4 @@ On this site you'll find
 
 
 
-:information_source: There is zero interest or attempt to make money from this site; the purpose is shared learning and fun.  Therefore, this site has zero affiliation with any of the products shown, or links listed, and zero of the links are affiliate links. 
+:information_source: *This site exists to share learning and fun. There is zero interest or attempt to make money from this site. Therefore, this site has zero affiliation with any of the products shown, or links listed, and zero of the links are affiliate links.* 

@@ -6,6 +6,7 @@ slug: Autumn Leaves Laminate
 category: Activities
 tags:
   - Art
+  - Crafts
 ---
 
 ## Laminate Desk or Picture Decoration
