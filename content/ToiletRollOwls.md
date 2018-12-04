@@ -5,9 +5,9 @@ cover: /assets/OutOfTheBox.jpg
 slug: Toilet Roll Owls
 category: Activities
 tags:
-  - ToiletRoll
-  - Crafts
-  - Owls
+  - toiletRoll
+  - crafts
+  - owls
 ---
 
 

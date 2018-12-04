@@ -1,8 +1,8 @@
 ---
-title: Raspbperry Pi Car
+title: Raspberry Pi Car Kit
 date: 2018-6-22T00:00:00.000Z
 cover: /assets/picar.png
-slug: Raspberry Pi Car
+slug: Raspberry Pi Car Kit
 category: Materials
 tags:
   - raspberrypi
