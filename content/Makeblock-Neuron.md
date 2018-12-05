@@ -12,7 +12,7 @@ tags:
 
 ![Makeblock Neuron](/assets/makeblockneuron.png)
 
-The Makeblock Neuron system offers over 30 electronic blocks, including a voice sensor, light sensor and infrared sensor. It makes it very easy for kids to create functional circuits easily e.g. an ultrasonic distance sensor,a voice-activated emoji. Components can be programmed also.
+The Makeblock Neuron system offers over 30 electronic blocks, including a voice sensor, light sensor and infrared sensor. It makes it very easy for kids to create functional circuits easily e.g. an ultrasonic distance measurement tool, a voice-activated emoji. Components can be programmed also.
 Overall, it's a very polished product and fun to play with.
 https://www.makeblock.com/steam-kits/neuron
 
