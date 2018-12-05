@@ -6,11 +6,14 @@ slug: Lego Base Plates
 category: Activities
 tags:
   - Lego
-  - Car
   - Base
 ---
 
 Create a large Lego plate by connecting several Lego plates together
+
+[![LegoBoard](/assets/LegoBoard_otAGvvQ_xd8.jpg)](https://www.youtube.com/watch?v=otAGvvQ_xd8)
+
+
 
 ![Lego Base](/assets/LegoBase0.jpg)
 
