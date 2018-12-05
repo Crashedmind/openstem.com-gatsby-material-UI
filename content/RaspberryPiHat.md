@@ -1,11 +1,11 @@
 ---
-title: Raspbperry Pi Sense Hat
+title: Raspberry Pi Sense Hat
 date: 2018-6-22T00:00:00.000Z
 cover: /assets/raspberrypisensehat.png
 slug: Raspberry Pi Sense Hat
 category: Materials
 tags:
-  - raspperrypi
+  - raspberrypi
   - sensehat
 ---
 

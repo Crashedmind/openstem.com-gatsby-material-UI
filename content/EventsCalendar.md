@@ -1,6 +1,6 @@
 ---
 title: Events Calendar
-date: 2018-11-18T00:00:00.000Z
+date: 2016-01-01T00:00:00.000Z
 cover: "/assets/opensteamkids.png"
 slug: Events Calendar
 category: Setup
