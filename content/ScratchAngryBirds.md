@@ -7,10 +7,12 @@ category: Activities
 tags:
   - coding
   - scratch
+  - AngryBirds
 ---
+
+Coding an Angry Birds type game but using Harry Potter as the Angry Bird, and Dragons as the Pigs.
 
 
 ## Demo 
-
-[![Simulating the indicator, reverse, brake lights on a car using Scratch](/assets/ScratchAngryBirds_3vSvNTi3wCo.jpg)](https://www.youtube.com/watch?v=3vSvNTi3wCo)
+[![Harry Potter Themed Angry Birds](/assets/ScratchAngryBirds_3vSvNTi3wCo.jpg)](https://www.youtube.com/watch?v=3vSvNTi3wCo)
 

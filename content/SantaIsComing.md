@@ -10,6 +10,7 @@ tags:
   - Christmas
 ---
 
+A selection of Santa-themed Art and Crafts
 
 ![Santa is coming to town](/assets/SantaIsComingToTown.jpg)
 

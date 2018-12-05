@@ -12,6 +12,7 @@ tags:
   - Coral
 ---
 
+Miscellaneous Lego builds. Car. Plane. Coral Reef.
 
 ![Lego Car](/assets/LegoCar.jpg)
 

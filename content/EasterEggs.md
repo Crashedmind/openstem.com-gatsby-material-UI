@@ -10,6 +10,7 @@ tags:
   - Eggs
 ---
 
+Decorating some real eggs for Easter
 
 ![Easter Eggs](/assets/EasterEggs.jpg)
 

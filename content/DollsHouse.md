@@ -11,7 +11,10 @@ tags:
   - Doll
   - House
   - Paint
+  - Crafts
 ---
+
+From hammer and nails and saws, to painting and decoration, to furnishing a doll's house.
 
 ![Dolls House](/assets/DollsHouse.jpg)
 

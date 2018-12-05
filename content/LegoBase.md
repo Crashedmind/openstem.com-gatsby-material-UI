@@ -10,6 +10,8 @@ tags:
   - Base
 ---
 
+Create a large Lego plate by connecting several Lego plates together
+
 ![Lego Base](/assets/LegoBase0.jpg)
 
 ![Lego Base](/assets/LegoBase1.jpg)

@@ -10,7 +10,10 @@ tags:
   - Bark
   - Moss
   - CottonWool
+  - Crafts
 ---
+
+Build a crib from a cardboard box, tree bark and branches, and other materials.
 
 ![Crib](/assets/Crib.jpg)
 
