@@ -8,13 +8,12 @@ module.exports = {
   siteMetadata: {
     siteUrl: urljoin(config.siteUrl, config.pathPrefix),
     rssMetadata: {
-      site_url: urljoin(config.siteUrl),
+      site_url: urljoin(config.siteUrl), //removing pathPrefix from here fixes the page links in the RSS feed
       feed_url: urljoin(config.siteUrl, config.pathPrefix, config.siteRss),
       title: config.siteTitle,
       description: config.siteDescription,
       image_url: `${urljoin(
-        config.siteUrl,
-        config.pathPrefix
+        config.siteUrl
       )}/logos/logo-512.png`,
       author: config.userName,
       copyright: config.copyright
