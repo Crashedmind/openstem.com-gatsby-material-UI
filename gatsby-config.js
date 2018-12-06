@@ -14,7 +14,7 @@ module.exports = {
       description: config.siteDescription,
       image_url: `${urljoin(
         config.siteUrl
-      )}/logos/logo-512.png`,
+      )}/logos/logo-512.png`, //removing pathPrefix from here fixes the rss image links in the RSS feed
       author: config.userName,
       copyright: config.copyright
     }
