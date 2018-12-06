@@ -3,8 +3,8 @@ module.exports = {
   siteTitleShort: "OpenSTEMKids", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "OpenSTEMKids Science Technology Engineering Math for kids education", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://github.com/Crashedmind", // Domain of your website without pathPrefix.
-  pathPrefix: "/openstem.com-gatsby-material-UI", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  siteUrl: "https://www.openstemkids.com", // Domain of your website without pathPrefix.
+  pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Science Technology Engineering Math for kids", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
