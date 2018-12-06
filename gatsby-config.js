@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: urljoin(config.siteUrl, config.pathPrefix),
     rssMetadata: {
-      site_url: urljoin(config.siteUrl, config.pathPrefix),
+      site_url: urljoin(config.siteUrl),
       feed_url: urljoin(config.siteUrl, config.pathPrefix, config.siteRss),
       title: config.siteTitle,
       description: config.siteDescription,
