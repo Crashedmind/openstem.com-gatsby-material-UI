@@ -14,7 +14,18 @@ tags:
 ---
 
 ![Raspberry Pi Sense HAT](/assets/amazonalexalogo-630x472.jpg)
-Amazon has an Alexa client SDK that can be built and installed on a Raspberry Pi. This offers many Alexa features. Additional features may require a subscription e.g. Amazon Music.
+Amazon has an Alexa client SDK that can be built and installed on a Raspberry Pi. 
+
+This offers many Alexa features
+- Games
+- Radio
+- News
+- Reading books
+- Questions
+- Easter Eggs
+
+Additional features may require a subscription e.g. Amazon Music.
+
 
 
 # Putting Alexa on our RaspberryPi
