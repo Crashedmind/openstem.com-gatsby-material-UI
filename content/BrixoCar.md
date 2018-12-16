@@ -9,6 +9,8 @@ tags:
   - electronics
   - brixo
   - car
+  - lights
+  - sensors
 ---
 
 
@@ -42,7 +44,7 @@ This uses the Brixo
 
 and various other lego pieces.
 
-### First we build a simple test circuit to prove it works.
+### First we build a simple test circuit to prove it works
 
 [![Brixo Car](/assets/BrixoCar_05kCTePs52U.jpg)](https://www.youtube.com/watch?v=05kCTePs52U)
 

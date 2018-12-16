@@ -14,6 +14,8 @@ A selection of Santa-themed Art and Crafts
 
 ![Santa is coming to town](/assets/SantaIsComingToTown.jpg)
 
+![Merry Christmas Granny and Grandad](/assets/MerryChristmasGranny.jpg)
+
 ![30 days until Christmas](/assets/Carlights_DoraSantawarmup.jpg)
 
 ![Lego Tree](/assets/LegoTree.jpg)
