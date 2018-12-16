@@ -8,6 +8,7 @@ tags:
   - coding
   - scratch
   - AngryBirds
+  - HarryPotter
 ---
 
 Coding an Angry Birds type game but using Harry Potter as the Angry Bird, and Dragons as the Pigs.
