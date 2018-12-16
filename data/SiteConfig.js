@@ -9,7 +9,7 @@ module.exports = {
   siteDescription: "Science Technology Engineering Math for kids", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
-  siteGATrackingID: "UA-47311644-4", // Tracking code ID for google analytics.
+  siteGATrackingID: "UA-131102334-1", // Tracking code ID for google analytics.
   disqusShortname: "", // Disqus shortname. #openstemkids 
   postDefaultCategoryID: "Tech", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
