@@ -26,7 +26,7 @@ This offers many Alexa features
 
 Additional features may require a subscription e.g. Amazon Music.
 
-
+see https://www.amazon.co.uk/b/?ie=UTF8&node=10068517031&ref_=topnav_storetab_a2s for all Alexa skills
 
 # Putting Alexa on our RaspberryPi
 ## Materials Required
