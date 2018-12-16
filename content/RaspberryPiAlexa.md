@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi Alexa
 date: 2018-12-15T00:00:00.000Z
-cover: /assets/raspberrypisensehat.png
+cover: /assets/amazonalexalogo-630x472.jpg
 slug: Raspberry Pi Alexa
 category: Activity
 tags:
@@ -13,7 +13,7 @@ tags:
   - HarryPotter
 ---
 
-![Raspberry Pi Sense HAT](/assets/raspberrypisensehat.png)
+![Raspberry Pi Sense HAT](/assets/amazonalexalogo-630x472.jpg)
 
 # Putting Alexa on our RaspberryPi
 ## Materials Required
