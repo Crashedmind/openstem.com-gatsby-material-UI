@@ -18,5 +18,5 @@ We usually start building and see what comes out. Normally it's a vehicle, but t
 
 
 
-## K'nex Catapult
-[![Knex Catapult ](/assets/KnexCatapult_5vQF__xCcIs.jpg)](https://www.youtube.com/watch?v=1-gsGZ5m5ho)
+## Knex Catapult
+[![Knex Catapult ](/assets/KnexCatapult_5vQF__xCcIs.jpg)](https://www.youtube.com/watch?v=5vQF__xCcIs)
