@@ -20,3 +20,12 @@ We usually start building and see what comes out. Normally it's a vehicle, but t
 
 ## Knex Catapult
 [![Knex Catapult ](/assets/KnexCatapult_5vQF__xCcIs.jpg)](https://www.youtube.com/watch?v=5vQF__xCcIs)
+
+
+
+## Knex Car
+Normally, we make vehicles including space-ships and cars - like this one:
+
+![Knex Car ](/assets/KnexCar.jpg)
+
+
