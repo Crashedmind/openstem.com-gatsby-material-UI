@@ -47,14 +47,14 @@ Recognised Dwayne Johnson from a group of 3 people. (99.7% confidence)
 ![Face Comparison Group](/assets/ImageFaceRecognition_Rr-ROkOiK84_group.jpg)
 
 
-### Recognised Dwayne Johnson with hair 
+### Recognise Dwayne Johnson with hair 
 Recognised Dwayne Johnson with no hair and Dwayne Johnson with hair. (99.1% confidence)
 
 ![Face Comparison Hair](/assets/ImageFaceRecognition_Rr-ROkOiK84_hair.jpg)
 
 
 ## Text Recognition
-### Recognised handwritten message
+### Recognise handwritten message
 Recognised the handwritten message from Dwayne Johnson
 
 ![Face Comparison Hair](/assets/ImageFaceRecognition_Rr-ROkOiK84_sign.jpg)
