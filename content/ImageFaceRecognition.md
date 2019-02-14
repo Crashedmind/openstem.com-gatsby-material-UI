@@ -69,8 +69,13 @@ In "Star Wars: Where's the Wookiee? Search and Find Book" you are given several 
 This can take a few minutes for people - let's see how Amazon Rekognition does.
 
 
+![Sabina](/assets/ImageFaceRecognition_Sabina.jpg)
+Amazon Rekognition recognises the cartoon image face.
+
+
 
 [![Wheres Wookiee Rekognition](/assets/ImageRekognition_j3jYfXHRv8I.jpg)](https://www.youtube.com/watch?v=j3jYfXHRv8I)
+Amazon Rekognition cannot find the face in the crowd.
 
 
 
