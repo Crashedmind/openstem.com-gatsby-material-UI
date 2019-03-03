@@ -11,13 +11,24 @@ tags:
   - coding
 
 ---
+Qdee is a robot based on Micro:bit. It can be programmed via Micro:bit block language, or controlled via an app. Many different robot configurations are supported.
+
+The documentation, online tutorials, and overall packaging are very good.
+
+Qdee started via https://www.kickstarter.com/projects/44621210/qdee-robot-kit-a-whole-new-world-of-play-to-micro
 
 ![Qdee](/assets/Qdee-Robot-Kit.jpg)
 
 ## Coding
 [![Qdee Coding](/assets/Qdee_S7Yrx2RexNQ.jpg)](https://www.youtube.com/watch?v=S7Yrx2RexNQ)
 
-The Coding interface in intuitive for someone who has done block coding before e.g. Micro:bit or Scratch
+The Coding interface via the app is intuitive for someone who has done block coding before e.g. Micro:bit or Scratch. Code is downloaded direct from the app easily to Qdee.
+
+Code can also be written via https://makecode.microbit.org/ with a Qdee extension - but the code download is more manual.
+
+
+
+
 
 
 ## Control
@@ -26,6 +37,7 @@ The Coding interface in intuitive for someone who has done block coding before e
 Qdee can be controlled via the app - control mode. 
 
 (The servo motors are not yet in App v1.4.)
+
 
 
 
