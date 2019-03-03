@@ -45,7 +45,9 @@ Before the presentation I felt my biggest gap was being able to communicate with
 
 Before I got involved, one of the STEM parents did a class on statistics the previous year. This opened up the possibility in my mind and planted the seed.
 
-In summer 2018, I took my kids and their friends to the Amazon open day at ITT Tallaght. They attended a Micro-bit coding class hosted by Keith Quille. I got talking to him, commending him on how well he delivered the class, and mentioned some of the STEM activities I did with my kids, and how I was trying to do these with their school. NCCA 
+In summer 2018, I took my kids and their friends to the Amazon open day at ITT Tallaght. They attended a Micro-bit coding class hosted by Keith Quille. I got talking to him, commending him on how well he delivered the class, and mentioned some of the STEM activities I did with my kids, and how I was trying to do these with their school. 
+
+TO BE COMPLETED...
 
 
 
@@ -53,7 +55,7 @@ In summer 2018, I took my kids and their friends to the Amazon open day at ITT T
 
 ## Where to from here
 - I'd like for this to scale i.e. for teachers, SNAs to deliver contemporary STEM content, with STEM parents becoming more involved
-- I would not do this full time. I greatly admire teachers and what they do - but it is not for me. I have a full time demanding job that is rewarding personally and financially. I enjoy my own company and thinking time. So doing this part time is a good balance.
+- I would not do this full time. I greatly admire teachers and what they do - but it is not for me as a full time activity. I have a full time demanding job that is rewarding personally and financially. So doing this part time is a good balance.
 - Running an after school class is something I considered for the future. This would realise the Curriculum idea I originally wanted.
 
 
