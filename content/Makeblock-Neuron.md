@@ -10,7 +10,7 @@ tags:
   - electronics
 ---
 
-[![Makeblock Neuron Introduction](/assets/MakeBlockNeuron_aZjOPXMALdM.jpg)](https://www.youtube.com/watch?v=nMbPkNgsBlE)
+[![Makeblock Neuron Introduction](/assets/MakeBlockNeuron_aZjOPXMALdM.jpg)](https://www.youtube.com/watch?v=kU1g-IcESXc)
 
 ![Makeblock Neuron](/assets/makeblockneuron.png)
 
@@ -61,7 +61,7 @@ See https://www.makeblock.com/steam-kits/neuron
 - Wireless transmitter and receiver
 
 
-
+[![Makeblock Neuron Introduction](/assets/MakeBlockNeuron_aZjOPXMALdM.jpg)](https://www.youtube.com/watch?v=nMbPkNgsBlE)
 
 
 ## MakeBlock Neuron Touch a wire to select an Emoji 
