@@ -1,6 +1,6 @@
 ---
 title: Image Face Recognition
-date: 2019-12-21T00:00:00.000Z
+date: 2019-02-21T00:00:00.000Z
 cover: /assets/DwayneJohnson.jpg
 slug: Image Face Recognition
 category: Activity

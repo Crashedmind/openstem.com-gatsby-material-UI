@@ -37,7 +37,7 @@ Qdee can be controlled via the app - control mode.
 
 ## Build
 
-## Control
+### Control
 We can control Qdee from the app without writing any code using the Control windows.
 
 To control Qdee from a phone or tablet we need to:
@@ -46,7 +46,7 @@ To control Qdee from a phone or tablet we need to:
 - Download the control.hex file to Qdee (this is required to connect via Bluetooth)
 - Connect from phone to Qdee via Bluetooth
 
-## Downloading Code To Qdee
+### Downloading Code To Qdee
 To download code to Qdee from a PC:
 1. Connect USB cable from Qdee to PC
 2. Copy the .hex file to Qdee e.g. 
