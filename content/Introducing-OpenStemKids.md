@@ -27,10 +27,10 @@ OpenSTEMKids facilitates and promotes STEM for children:
 ### On this site
 On this site you'll find
 - [STEM Events Calendar](/events-calendar): upcoming Irish and international STEM events.
-- [STEM Activities](/activities): STEM activities  
-- [Books](/books): Books that we recommend to get STEM ideas and inspiration
-- [Materials](/materials): The kits and resources used for the STEM activities
-- [Blog](/blog): Various writings and commentaries
+- [STEM Activities](/categories/activities): STEM activities  
+- [Books](/categories/books): Books that we recommend to get STEM ideas and inspiration
+- [Materials](/categories/materials): The kits and resources used for the STEM activities
+- [Blog](/categories/blog): Various writings and commentaries
 - [Youtube channel](https://www.youtube.com/channel/UClT-YU-Yl_3to7yXAHEeuqA) where we post videos of activities
 - [Twitter](https://twitter.com/STEMOpen) where we post links and articles 
 

@@ -17,6 +17,8 @@ The documentation, online tutorials, and overall packaging are very good.
 
 Qdee started via https://www.kickstarter.com/projects/44621210/qdee-robot-kit-a-whole-new-world-of-play-to-micro
 
+A complete set of tutorial videos are available on https://www.youtube.com/playlist?list=PLFbzd0m6AcmJ7J34DQxxbEJc-h9BkFc8B&disable_polymer=true
+
 ![Qdee](/assets/Qdee-Robot-Kit.jpg)
 
 ## Coding
