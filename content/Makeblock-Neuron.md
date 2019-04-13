@@ -77,7 +77,7 @@ Individual parts can be ordered from various stores e.g. https://www.kiwi-electr
 
 Some parts are fragile e.g. 
 - the knob where the knob can be twisted too much and the plastic pillar between the know and the resistor snaps. This is about 13 EUR.
-- the LED which has wires soldered 
+- the LED strip which is which has wires soldered 
 
 The Makeblock Neuron All-in-one-kit comes with 2 power supplies. 
 An extra power block allows more simultaneous activities - and is handy in case power is low on another block.
